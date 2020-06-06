@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="./logo.svg" alt="Ecoleta Project" width="350">
+  <img src="https://github.com/Gabreuvs/ecoleta-project/blob/master/public/assets/logo.svg" alt="Ecoleta Project" width="350">
 <br>
 <br>
 Ecoleta Project
@@ -12,13 +12,13 @@ Ecoleta Project
 [//]: # (Add your gifs/images here:)
 <h1 align="center">
 <div>
-  <img src="./page-home.png" alt="1" height="200">
-  <img src="./create-point.png" alt="2" height="300">
-  <img src="./created.png" alt="3" height="200">
-  <img src="./error.png" alt="4" height="200">
-  <img src="./search.png" alt="5" height="200">
-  <img src="./search-results.png" alt="6" height="200">
-  <img src="./nothing-to-search.png" alt="7" height="200">
+  <img src="https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/page-home.png" alt="page-home" height="200">
+  <img src="https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/create-point.png" alt="create-point" height="300">
+  <img src="https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/created.png" alt="created" height="200">
+  <img src="https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/error.png" alt="error" height="200">
+  <img src="https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/search.png" alt="search" height="200">
+  <img src="https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/serach-results.png" alt="search-results" height="200">
+  <img src="https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/nothing-to-search.png" alt="nothing-to-search" height="200">
 
 </div>
 
