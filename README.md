@@ -12,28 +12,28 @@ It was a great experience, mainly for who are starting at web development. Below
 
 ### Page Home:
 
-![page-home](https://github.com/Gabreuvs/ecoleta-project/blob/master/page-home.png)
+![page-home](https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/page-home.png)
 
 ### Search:
 
-![search](https://github.com/Gabreuvs/ecoleta-project/blob/master/search.png)
+![search](https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/search.png)
 
 ### Nothing to Search
 
-![nothing-to-search](https://github.com/Gabreuvs/ecoleta-project/blob/master/nothing-to-search.png)
+![nothing-to-search](https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/nothing-to-search.png)
 
 ### Serach Results
 
-![serach-results](https://github.com/Gabreuvs/ecoleta-project/blob/master/serach-results.png)
+![serach-results](https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/serach-results.png)
 
 ### Create Point:
 
-![create-point](https://github.com/Gabreuvs/ecoleta-project/blob/master/create-point.png)
+![create-point](https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/create-point.png)
 
 ### Created
 
-![created](https://github.com/Gabreuvs/ecoleta-project/blob/master/created.png)
+![created](https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/created.png)
 
 ### Error Creating
 
-![error](https://github.com/Gabreuvs/ecoleta-project/blob/master/error.png)
+![error](https://github.com/Gabreuvs/ecoleta-project/blob/master/prints/error.png)
